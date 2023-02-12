@@ -1,8 +1,8 @@
 <link href="style.css" rel="stylesheet" type="text/css">
 
-<h2>Welcome to my Zoo hoo woo</h2>
+<h2>Welcome to my Zoo</h2>
 
-<img src="zoo.jpg" alt="Zoo" width="500px" hight="300px">
+<img src="..\picture\zoo.jpg" alt="Zoo" width="500px" hight="300px">
 
     <?php
     $mysql = new mysqli("db","root","root","zoo");
